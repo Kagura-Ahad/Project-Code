@@ -1,0 +1,18 @@
+Dataset contains 4 cities
+
+Algorithm: Brute Force
+Total distance: 7904.035366
+Path: Montgomery -> Juneau -> Phoenix -> Little Rock 
+
+Algorithm: Brute Force
+Total distance: 7875.371052
+Path: Montgomery -> Phoenix -> Juneau -> Little Rock 
+
+Algorithm: Brute Force
+Total distance: 7875.371052
+Path: Juneau -> Little Rock -> Montgomery -> Phoenix 
+
+Time taken: 0.003000
+
+Unit of time taken: seconds
+
